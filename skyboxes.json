@@ -1,0 +1,75 @@
+{
+  "Dark Sky": {
+    "SkyboxUp": "rbxassetid://570555929",
+    "SkyboxRt": "rbxassetid://570555882",
+    "SkyboxDn": "rbxassetid://570555964",
+    "SkyboxFt": "rbxassetid://570555800",
+    "SkyboxLf": "rbxassetid://570555840",
+    "SkyboxBk": "rbxassetid://570555736"
+  },
+  "Art Mountain": {
+    "SkyboxUp": "rbxassetid://2128462236",
+    "SkyboxRt": "rbxassetid://2128462027",
+    "SkyboxLf": "rbxassetid://2128462027",
+    "SkyboxFt": "rbxassetid://2128458653",
+    "SkyboxBk": "rbxassetid://2128458653",
+    "SkyboxDn": "rbxassetid://2128462480"
+  },
+  "Vaporwave": {
+    "SkyboxUp": "rbxassetid://1417494643",
+    "SkyboxRt": "rbxassetid://1417494499",
+    "SkyboxLf": "rbxassetid://1417494402",
+    "SkyboxFt": "rbxassetid://1417494253",
+    "SkyboxBk": "rbxassetid://1417494030",
+    "SkyboxDn": "rbxassetid://1417494146"
+  },
+  "Nebula": {
+    "SkyboxUp": "rbxassetid://159454288",
+    "SkyboxRt": "rbxassetid://159454300",
+    "SkyboxLf": "rbxassetid://159454286",
+    "SkyboxFt": "rbxassetid://159454293",
+    "SkyboxBk": "rbxassetid://159454299",
+    "SkyboxDn": "rbxassetid://159454296"
+  },
+  "Twilight": {
+    "SkyboxUp": "rbxassetid://264907379",
+    "SkyboxRt": "rbxassetid://264908886",
+    "SkyboxLf": "rbxassetid://264909758",
+    "SkyboxFt": "rbxassetid://264909420",
+    "SkyboxBk": "rbxassetid://264908339",
+    "SkyboxDn": "rbxassetid://264907909"
+  },
+  "Lake Sky": {
+    "SkyboxRt": "rbxassetid://6823531746",
+    "SkyboxUp": "rbxassetid://6823528533",
+    "SunTextureId": "rbxassetid://5392574622",
+    "SkyboxDn": "rbxassetid://6823525702",
+    "SkyboxFt": "rbxassetid://6823482923",
+    "SkyboxLf": "rbxassetid://6823530023",
+    "SkyboxBk": "rbxassetid://6823523318"
+  },
+  "Alien Red": {
+    "SkyboxUp": "rbxassetid://7123412196",
+    "SkyboxRt": "rbxassetid://7123402505",
+    "SkyboxDn": "rbxassetid://7123387679",
+    "SkyboxFt": "rbxassetid://7123390433",
+    "SkyboxLf": "rbxassetid://7123394786",
+    "SkyboxBk": "rbxassetid://7123385217"
+  },
+  "Black Mesa": {
+    "SkyboxUp": "rbxassetid://9569598752",
+    "SkyboxRt": "rbxassetid://9569601267",
+    "SkyboxDn": "rbxassetid://9569613307",
+    "SkyboxFt": "rbxassetid://9569611418",
+    "SkyboxLf": "rbxassetid://9569608166",
+    "SkyboxBk": "rbxassetid://9569742122"
+  },
+  "Clouds": {
+    "SkyboxUp": "rbxassetid://570557727",
+    "SkyboxRt": "rbxassetid://570557672",
+    "SkyboxLf": "rbxassetid://570557620",
+    "SkyboxFt": "rbxassetid://570557559",
+    "SkyboxBk": "rbxassetid://570557514",
+    "SkyboxDn": "rbxassetid://570557775"
+  }
+}
